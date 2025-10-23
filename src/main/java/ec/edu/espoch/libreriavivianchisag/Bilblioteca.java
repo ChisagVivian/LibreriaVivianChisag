@@ -8,6 +8,14 @@ package ec.edu.espoch.libreriavivianchisag;
  *
  * @author Usuario
  */
-public class Biblioteca {
+public class Bilblioteca {
+        
     
+    
+    public String agregarlibro(){
+    
+        
+        
+    return null;
+    }
 }

@@ -1,13 +1,22 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package ec.edu.espoch.libreriavivianchisag;
 
-/**
- *
- * @author Usuario
- */
+
 public class Libros {
+    
+    private String titulo;
+    private String autor;
+    private String genero;
+    private double precio;
+
+    public Libros(String titulo, String autor, String genero, double precio) {
+        this.titulo = titulo;
+        this.autor = autor;
+        this.genero = genero;
+        this.precio = precio;
+    }
+    
+  
+ 
     
 }
